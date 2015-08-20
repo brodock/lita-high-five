@@ -1,8 +1,8 @@
 # lita-high-five
 
-[![Build Status](https://travis-ci.org/jimmycuadra/lita-high-five.png?branch=master)](https://travis-ci.org/jimmycuadra/lita-high-five)
-[![Code Climate](https://codeclimate.com/github/jimmycuadra/lita-high-five.png)](https://codeclimate.com/github/jimmycuadra/lita-high-five)
-[![Coverage Status](https://coveralls.io/repos/jimmycuadra/lita-high-five/badge.png)](https://coveralls.io/r/jimmycuadra/lita-high-five)
+[![Build Status](https://travis-ci.org/brodock/lita-high-five.png?branch=master)](https://travis-ci.org/brodock/lita-high-five)
+[![Code Climate](https://codeclimate.com/github/brodock/lita-high-five.png)](https://codeclimate.com/github/brodock/lita-high-five)
+[![Coverage Status](https://coveralls.io/repos/brodock/lita-high-five/badge.png)](https://coveralls.io/r/brodock/lita-high-five)
 
 **lita-high-five** will make sure Lita doesn't leave you hanging.
 
